@@ -8,6 +8,12 @@ Freight charges and vendor invoices are important components of supply chain exp
 
 The project combines SQL-based data extraction, exploratory data analysis, statistical feature selection, machine learning model evaluation, and an interactive Streamlit portal.
 
+## Vendor Invoice Intelligence Portal
+
+| Freight Cost Prediction | Invoice Risk Flagging | Prediction Result |
+|:---:|:---:|:---:|
+| ![Freight Cost Prediction](./Vendor%20Invoice%20Intelligence%20Portal_1-1.png) | ![Invoice Risk Flagging](./Vendor%20Invoice%20Intelligence%20Portal_2-1.png) | ![Prediction Result](./Vendor%20Invoice%20Intelligence%20Portal_2-2.png) |
+
 ## Key Features
 
 ### 1. Freight Cost Prediction
