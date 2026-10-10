@@ -6,7 +6,7 @@ A machine learning project that combines freight cost regression, invoice risk c
 
 Freight charges and vendor invoices are important components of supply chain expenditure. This project uses historical vendor invoice and purchase data to estimate freight costs and flag invoices that may require manual review.
 
-The project combines SQL-based data extraction, exploratory data analysis, statistical feature selection, machine learning model evaluation, and an interactive Streamlit portal.
+The project combines SQL-based data extraction, exploratory data analysis, statistical feature selection, machine learning model evaluation, and an interactive Streamlit portal. Link to the dataset - https://topmate.io/ayushi_mishra/1981139
 
 ## Vendor Invoice Intelligence Portal
 
